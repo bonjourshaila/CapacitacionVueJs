@@ -9,3 +9,5 @@ npm install
 ```
 npm run serve
 ```
+
+Nota: copiar la siquiente ruta http://localhost:8081/imagenes para visualizar el formulario 
